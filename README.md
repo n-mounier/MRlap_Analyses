@@ -6,10 +6,10 @@ Here we provide some of the scripts used for the analyses in our paper, "Bias co
 
 **[simulate_data.R](simulate_data.R)** : script to simulate the data (required to use launch_simulations.R)   
 
-**launch_simulations.R** : main script to launch the simulations    
+**[launch_simulations.R](launch_simulations.R)** : main script to launch the simulations    
 
-**MRlap_simulations.R** : main script to analyse simulated data     
+**[MRlap_simulations.R](MRlap_simulations.R)** : main script to analyse simulated data     
 
-**sampling_BMI-BMI.R** : main script to launch the samplings for BMI-BMI analyses (can be modified to analyse other trait pairs)   
+**[sampling_BMI-BMI.R](sampling_BMI-BMI.R)** : main script to launch the samplings for BMI-BMI analyses (can be modified to analyse other trait pairs)   
 
-**MRlap_realdata.R** : main script to analyse real data samplings    
+**[MRlap_realdata.R](MRlap_realdata.R)** : main script to analyse real data samplings    
